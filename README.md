@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/2418-sort-the-people) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/2540-minimum-common-value) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2951-find-the-peaks](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/2951-find-the-peaks) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3731-find-missing-elements](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/3731-find-missing-elements) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/1952-three-divisors) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2951-find-the-peaks](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/2951-find-the-peaks) |
 ## Backtracking
 |  |
