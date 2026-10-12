@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/2418-sort-the-people) |
 | [2716-minimize-string-length](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/2716-minimize-string-length) |
 | [3498-reverse-degree-of-a-string](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/3498-reverse-degree-of-a-string) |
+| [3941-password-strength](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/3941-password-strength) |
 ## Array
 |  |
 | ------- |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/2540-minimum-common-value) |
 | [2716-minimize-string-length](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/2716-minimize-string-length) |
 | [3731-find-missing-elements](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/3731-find-missing-elements) |
+| [3941-password-strength](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/3941-password-strength) |
 ## Stack
 |  |
 | ------- |
