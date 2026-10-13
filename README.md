@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/1122-relative-sort-array) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/1480-running-sum-of-1d-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0240-search-a-2d-matrix-ii) |
 | [0832-flipping-an-image](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0832-flipping-an-image) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/3142-check-if-grid-satisfies-conditions) |
 ## Simulation
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0374-guess-number-higher-or-lower) |
 | [0875-koko-eating-bananas](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0875-koko-eating-bananas) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/1122-relative-sort-array) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/2248-intersection-of-multiple-arrays) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -403,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0023-merge-k-sorted-lists) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Tournament Sort
 |  |
 | ------- |
