@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0455-assign-cookies) |
 | [0832-flipping-an-image](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0832-flipping-an-image) |
+| [0844-backspace-string-compare](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0977-squares-of-a-sorted-array) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0412-fizz-buzz) |
+| [0844-backspace-string-compare](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/1189-maximum-number-of-balloons) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0412-fizz-buzz) |
 | [0832-flipping-an-image](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0832-flipping-an-image) |
+| [0844-backspace-string-compare](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0844-backspace-string-compare) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0445-add-two-numbers-ii) |
+| [0844-backspace-string-compare](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1019-next-greater-node-in-linked-list](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/1019-next-greater-node-in-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
