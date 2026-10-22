@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0575-distribute-candies) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0445-add-two-numbers-ii) |
+| [0496-next-greater-element-i](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0496-next-greater-element-i) |
 | [0844-backspace-string-compare](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1019-next-greater-node-in-linked-list](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/1019-next-greater-node-in-linked-list) |
@@ -414,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0496-next-greater-element-i) |
 | [1019-next-greater-node-in-linked-list](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/1019-next-greater-node-in-linked-list) |
 ## Bracket Sequences
 |  |
