@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0086-partition-list) |
+| [0088-merge-sorted-array](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0143-reorder-list) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0162-find-peak-element) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0242-valid-anagram) |
