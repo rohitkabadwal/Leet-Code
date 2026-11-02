@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0075-sort-colors) |
+| [0084-largest-rectangle-in-histogram](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0071-simplify-path) |
+| [0084-largest-rectangle-in-histogram](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0445-add-two-numbers-ii) |
@@ -429,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0503-next-greater-element-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/1019-next-greater-node-in-linked-list) |
@@ -455,4 +458,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
